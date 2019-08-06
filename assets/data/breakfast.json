@@ -1,0 +1,18 @@
+{
+	"foodItems": [{
+			"name": "Pancakes",
+			"price": "$1.50",
+			"calories": "300"
+		},
+		{
+			"name": "Toast",
+			"price": "$0.99",
+			"calories": "100"
+		},
+		{
+			"name": "Eggs",
+			"price": "$2.50",
+			"calories": "200"
+		}
+	]
+}

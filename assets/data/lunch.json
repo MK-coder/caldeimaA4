@@ -1,0 +1,18 @@
+{
+	"foodItems": [{
+			"name": "Sandwich",
+			"price": "$4.99",
+			"calories": "500"
+		},
+		{
+			"name": "Pizza",
+			"price": "$5.75",
+			"calories": "300"
+		},
+		{
+			"name": "Rice Dish",
+			"price": "$10.00",
+			"calories": "250"
+		}
+	]
+}
